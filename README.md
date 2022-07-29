@@ -14,9 +14,9 @@ Key Insights:
  
 ![Global_Mismanaged_Waste](https://user-images.githubusercontent.com/98059455/181651227-114e3fd1-8698-4c73-8b48-0bedbff17fcb.png)
 
-Asia and Africa stands out - Therefore: emerging/ developing/ Low income countries have a waste mismanaged waste problem.
+Asia and Africa stands out (regions appearing yellow) - emerging/developing/low income countries have a waste mismanagement problem.
 
-Trend: Countries that are either developing or emerging economies are more likely to mismanage their waste. [ASIA & AFRICA]
+Assumption: Countries that are either developing or emerging economies (med-low GDP per capita) are more likely to mismanage their waste. [ASIA & AFRICA]
 
 Research: 
 Also, our research revealed that not all the waste in ASIA are generated in ASIA. Most the waste accepted in this region are from the west as these countries prefer to export these waste then recycle them. 
@@ -29,8 +29,8 @@ Also, our research revealed that not all the waste in ASIA are generated in ASIA
 <h2>Conclusion:</h2>
 
 From the graphs above we understand that: 
-- Mismanaged waste <b><u>does not</u></b> increase with an increase in country's GDP per capita. 
-- But Generated waste <b><u>increases</u></b> with increase in a country's GDP. </li><br>
+- Mismanaged waste <b><u>decreases</u></b> with an <b><u>increase</u></b> in country's GDP per capita. 
+- Generated waste <b><u>increases</u></b> with an <b><u>increase</u></b> in country's GDP per capita </li><br>
 
 Therefore, the trends and assumptions that were spotted on the crowd sourced GIS data is empirically and statistically significant. Even though countries with higher GDP per capita produces a lot of waste but they are also in a better position to manage and track what percentage of this waste gets missmanaged. On the contary, emerging economies that are in the business of trading plastic waste needs to ensure that system are in place to prevent the imported or generated waste from ending up in the oceans. 
 
