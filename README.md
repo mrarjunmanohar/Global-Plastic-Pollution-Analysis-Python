@@ -29,12 +29,12 @@ Also, our research revealed that not all the waste in ASIA are generated in ASIA
 <h2>Conclusion:</h2>
 
 From the graphs above we understand that: 
-- Mismanaged waste <b><u>decreases</u></b> with an <b><u>increase</u></b> in country's GDP per capita. 
+- Mismanaged waste <b><u>decreases</u></b> with an <b><u>increase</u></b> in country's GDP per capita 
 - Generated waste <b><u>increases</u></b> with an <b><u>increase</u></b> in country's GDP per capita </li><br>
 
 Therefore, the trends and assumptions that were spotted on the crowd sourced GIS data is empirically and statistically significant. Even though countries with higher GDP per capita produces a lot of waste but they are also in a better position to manage and track what percentage of this waste gets missmanaged. On the contary, emerging economies that are in the business of trading plastic waste needs to ensure that system are in place to prevent the imported or generated waste from ending up in the oceans. 
 
-Ultimately, tackling plastic pollution requires a multi-pronged approach. It needs to be tackled at 3 main levels
+Ultimately, tackling plastic pollution requires a multi-pronged approach. It needs to be tackled at 3 main levels:
 
 - At the source: Encourage and invest in companies trying to build more eco-friendly plastic or alternatives
 - Limiting usage: Replacing single-use plastic packaging cannot happen overnight. Therefore, as an immediate countermeasure, limiting its use-cases whenever possible seems only realistic
